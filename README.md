@@ -1,2 +1,2 @@
 # Coursera_Capstone
-## this respository will be used for the Capstone Coursera projects
+## this respository will be used for the Capstone Coursera project
